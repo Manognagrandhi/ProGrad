@@ -1,0 +1,11 @@
+unit main()
+begin
+unit L[num];
+unit maxval=L[num];
+for i=num to n-num do
+if L[i]>maxval
+maxval=L[i];
+endif
+endfor
+return(maxval)
+end
