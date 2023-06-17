@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    }
+    
+    #loading-animation {
+    display: none;
+    /* Add your custom loading animation styles here */
+    }
+    
+    #login-container {
+    display: none;
+    /* Add your login container styles here */
+    }
+    
+    #book-list-container {
+    margin-top: 20px;
+    /* Add your book list container styles here */
+    }
+    
+    #book-list {
+    list-style: none;
+    padding: 0;
+    }
+    
+    #book-list li {
+    margin-bottom: 10px;
+    /* Add your book list item styles here */
+    }
+    
+    #pagination-loader {
+    display: none;
+    /* Add your pagination loader styles here */
+    }
+    
+    #cart-container {
+    margin-top: 20px;
+    /* Add your cart container styles here */
+    }
+    
+    #cart-items {
+    list-style: none;
+    padding: 0;
+    }
+    
+    #checkout-button {
+    /* Add your checkout button styles here */
+    }
+    
